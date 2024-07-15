@@ -1,0 +1,2 @@
+# favoritesHTML2HeimdallJSON
+浏览器导出的收藏夹转为Heimdall的JSON文件。
